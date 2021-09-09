@@ -1,2 +1,2 @@
 # recipe-api
-Recipe API using Python with DJANGO
+Recipe API using Python with DJANGO - test
